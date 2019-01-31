@@ -27,7 +27,7 @@
  * http://www.apache.org/licenses/LICENSE-2.0
  */
 
-.bootstrap-switch {
+ .bootstrap-switch {
   display: inline-block;
   direction: ltr;
   cursor: pointer;
@@ -3488,8 +3488,8 @@ p {
 .description,
 .card-description,
 .footer-big p {
-  color: #9A9A9A;
-  font-weight: 300;
+  color: black;
+  font-weight: 500;
 }
 
 .category {
@@ -5931,7 +5931,7 @@ img {
 
 .page-header .category,
 .page-header .description {
-  color: rgba(255, 255, 255, 0.8);
+  color: white;
 }
 
 .page-header:after,
