@@ -7064,6 +7064,13 @@ img {
   }
 }
 
+/* CONTACT FORM CSS*/
+
+  label, input, textarea {
+    display: block;
+  }
+
+
 @media screen and (min-width: 768px) {
   .image-container.image-right {
     top: 80px;
